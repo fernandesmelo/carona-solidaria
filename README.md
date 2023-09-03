@@ -9,7 +9,7 @@ Ação pelo Clima, ao reduzir as emissões de CO²."
 
 Esse site tem como objetivo promover o Carona Solidária. Suas funcionalidades são: 
 
-✅ *Barra de Navegação:* Possui uma barra de navegação que permite aos usuários acessarem outras partes do site, como "Quem somos", "Como funciona" e "Fazer login".
+✅ *Barra de Navegação:* Possui uma barra de navegação que permite aos usuários acessarem outras partes do site.
 
 ✅ *Carrossel de Imagens:* Inclui um carrossel de imagens para visualização visual.
 
