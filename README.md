@@ -20,11 +20,9 @@ Esse site tem como objetivo promover o Carona Solidária. Suas funcionalidades s
 ✅ *Validação de Formulário:* Usa JavaScript para validar os campos do formulário e exibir mensagens de erro ou sucesso.
 
 ## 🚀 Começando
-
 Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
 
 ### 📋 Pré-requisitos
-
 Você precisa ter instalado  no seu sistema operacional um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos. 
 ### 🔧 Instalação
 
@@ -39,11 +37,9 @@ Você precisa ter instalado  no seu sistema operacional um navegador web para vi
 A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
 
 ## ⚙️ Executando os Testes
-
 Próximos passos...
 
 ## 🛠️ Construído com
-
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -51,7 +47,6 @@ Próximos passos...
 </div><br/>
 
 ## 🔨 Decisões de Tecnologia
-
 * **HTML:** Escolhido para estruturar a página web de forma semântica e acessível, garantindo uma base sólida para a construção do site.
 
 * **CSS:** Utilizado para estilização, assegurando uma interface atraente dando todo o design da parte visual do projeto. 
@@ -59,7 +54,6 @@ Próximos passos...
 * **JavaScript:** Empregado para adicionar funcionalidades interativas ao site, como formulários de cadastro e login e validação de dados.
 
 ## 👨🏽‍💻 Versão das Tecnologias
-
 * HTML5
 * CSS3
 * JavaScript ECMAScript 6 (ES6)
@@ -68,13 +62,10 @@ Próximos passos...
 Em construção...
 
 ## ✒️ Integrantes do Projeto
-
 | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/9bfaad36-461b-40fb-94c0-e80f575537a2" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/c03dd55b-0109-4d69-8be8-e73ba38afdd9" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/a9640880-b6af-4a6a-b8ff-320104ff82d8" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/8762e53c-5140-498f-97f2-b6c73e116ba6" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/497e99c1-b743-4051-a30a-63e05c59bfc1" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/7620caa8-9b30-4b87-9b15-69f9641fa0f2" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/65981f78-f2d0-47bc-92db-44e0d8d1af9b" width="100" height="100" /> |
-|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| [Laércio Fernandes](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/)                 | [Michelle Bessoni](https://www.linkedin.com/in/michelle-bessoni-56bb52143/)                |  [Igor Yan](https://www.linkedin.com/in/igor-ian/)              | [Monique Ferreira](https://www.linkedin.com/in/monique-ferreira-42b2121b7/)                       | [Cláudio Felipe](https://www.linkedin.com/in/claudio-felipe-5b7b39116/)                 | [Tácia Camila](https://www.linkedin.com/in/t%C3%A1ciacamila/)                 | [Raíssa Santos](https://www.linkedin.com/in/raissasantos96/)                 |
-
+|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
+| [Laércio Fernandes](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/) | [Michelle Bessoni](https://www.linkedin.com/in/michelle-bessoni-56bb52143/) | [Igor Yan](https://www.linkedin.com/in/igor-ian/) | [Monique Ferreira](https://www.linkedin.com/in/monique-ferreira-42b2121b7/) | [Cláudio Felipe](https://www.linkedin.com/in/claudio-felipe-5b7b39116/) | [Tácia Camila](https://www.linkedin.com/in/t%C3%A1ciacamila/) | [Raíssa Santos](https://www.linkedin.com/in/raissasantos96/) |
 
 
 ## 🎁 Expressões de Gratidão
-
 Agradeço a [Cloves Rocha](https://www.linkedin.com/in/cloves-rocha-07757638/) que nos guiou no início desse projeto e aos professores [Pedro Albino](https://www.linkedin.com/in/pedrohalbino/) e [Waldeck Lindoso](https://www.linkedin.com/in/waldeck-lindoso-jr-41a94840/) por nos ajudarem em algumas etapas 🫂;
