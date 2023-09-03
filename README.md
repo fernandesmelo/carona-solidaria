@@ -1,6 +1,6 @@
 # Carona Solidária
 
-Desenvolvemos o [Carona Solidária](https://fernandesmelo.github.io/conversor-de-moedas/) através da disciplina Projeto Integrador do curso Técnico Desenvolvimento de Sistemas.
+Desenvolvemos o [Carona Solidária]( https://fernandesmelo.github.io/carona-solidaria/) através da disciplina Projeto Integrador do curso Técnico Desenvolvimento de Sistemas.
 
 O Carona Solidária é um aplicativo de carona para pessoas que trabalham na mesma empresa ou instituição. A ideia é que um colaborador ofereça carona, e aqueles trabalhadores que melhor se adequem à rota e ao horário possam aproveitar o serviço. Para a empresa, o compartilhamento de caronas entre colaboradores aumenta a integração entre os funcionários e reduz o estresse e a fadiga de enfrentar o trajeto no transporte público. Além disso, a criação desta plataforma tem como objetivo possibilitar que empresas com um grande número de funcionários compartilhem caronas entre si, reduzindo custos para aquelas que precisam disponibilizar transporte para os funcionários. Isso também beneficia a cidade, reduzindo a quantidade de automóveis em circulação. Dessa forma, contribuímos para os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, em particular o ODS 11, que trata de Cidades e Comunidades Sustentáveis, e o ODS 13, que trata de Ação pelo Clima, ao reduzir as emissões de CO²."
 
