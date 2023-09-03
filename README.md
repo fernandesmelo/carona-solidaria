@@ -2,9 +2,10 @@
 
 Desenvolvemos o [Carona Solidária]( https://fernandesmelo.github.io/carona-solidaria/) através da disciplina Projeto Integrador do curso Técnico Desenvolvimento de Sistemas.
 
-O Carona Solidária é um aplicativo de carona para pessoas que trabalham na mesma empresa ou instituição. A ideia é que um colaborador ofereça carona, e aqueles trabalhadores que melhor se adequem à rota e ao horário possam aproveitar o serviço. Para a empresa, o compartilhamento de caronas entre colaboradores aumenta a integração entre os funcionários e reduz o estresse e a fadiga de enfrentar o trajeto no transporte público. Além disso, a criação desta plataforma tem como objetivo possibilitar que empresas com um grande número de funcionários compartilhem caronas entre si, reduzindo custos para aquelas que precisam disponibilizar transporte para os funcionários. Isso também beneficia a cidade, reduzindo a quantidade de automóveis em circulação. Dessa forma, contribuímos para os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, em particular o ODS 11, que trata de Cidades e Comunidades Sustentáveis, e o ODS 13, que trata de Ação pelo Clima, ao reduzir as emissões de CO²."
+O Carona Solidária é um aplicativo de carona para pessoas que trabalham na mesma empresa ou instituição. A ideia é que um colaborador ofereça carona, e aqueles trabalhadores que melhor se adequem à rota e ao horário possam aproveitar o serviço. Para a empresa, o compartilhamento de caronas entre colaboradores aumenta a integração entre os funcionários e reduz o estresse e a fadiga de enfrentar o trajeto no transporte público. Além disso, a criação desta plataforma tem como objetivo possibilitar que empresas com um grande número de funcionários compartilhem caronas entre si, reduzindo custos para aquelas que precisam disponibilizar transporte para os funcionários. Isso também beneficia a cidade, reduzindo a quantidade de automóveis em circulação. Dessa forma, contribuímos para os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, em particular o ODS 11, que trata de Cidades e Comunidades Sustentáveis, e o ODS 13, que trata de
+Ação pelo Clima, ao reduzir as emissões de CO²."
 
-![Captura de tela 2023-08-30 113620](https://github.com/fernandesmelo/conversor-de-moedas/assets/113717317/e0e91213-9b5a-43c9-a6cc-ef55fbaac8ff)
+ ![Imagem1](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/1c96af72-73ea-4dbf-889c-b93edc275ce2) ![Imagem2](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/6f3ea754-becb-40d9-833e-baab78a552f8) ![Imagem3](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/88bc3305-b0c5-43c1-9dea-6f7b9e952265) ![Imagem4](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/bbeac510-40ba-499d-a9f0-25923fa41df8) ![Imagem5](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/2b925a0e-5c6c-4ef6-bf53-b23df12a198e) ![Imagem6](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/f8c8943e-a912-4d21-ad7d-90a0b63643dd) ![Imagem7](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/909b1fb9-9277-41a2-93fd-93465303a40d)![Imagem8](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/27a75aaa-11d6-44cd-a0d5-48f9a5d9d373)
 
 Esse site tem como objetivo promover o Carona Solidária. Suas funcionalidades são: 
 
@@ -63,15 +64,15 @@ Próximos passos...
 * CSS3
 * JavaScript ECMAScript 6 (ES6)
 
+## 🚧 Status do Projeto
+Em construção...
+
 
 ## ✒️ Integrantes
 
 | ![Nome do Integrante 1](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/9bfaad36-461b-40fb-94c0-e80f575537a2) | ![Nome do Integrante 2](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/b8958e83-b86c-441b-801f-a2329e32ba81) | ![Nome do Integrante 3](URL_da_Imagem3) | ![Nome do Integrante 4](URL_da_Imagem4) | ![Nome do Integrante 5](URL_da_Imagem5) |
 |----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
 | [Laércio Fernandes](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/)               |  [Michelle Bessoni](https://www.linkedin.com/in/michelle-bessoni-56bb52143/)                  | Nome do Integrante 3                   | Nome do Integrante 4                   | Nome do Integrante 5                   |
-
-
-* **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/)
 
 ## 🎁 Expressões de Gratidão
 
