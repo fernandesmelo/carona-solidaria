@@ -67,8 +67,7 @@ Próximos passos...
 ## 🚧 Status do Projeto
 Em construção...
 
-
-## ✒️ Integrantes
+## ✒️ Integrantes do Projeto
 
 | ![Nome do Integrante 1](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/9bfaad36-461b-40fb-94c0-e80f575537a2) | ![Nome do Integrante 2](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/b8958e83-b86c-441b-801f-a2329e32ba81) | ![Nome do Integrante 3](URL_da_Imagem3) | ![Nome do Integrante 4](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/fb38bf20-67b9-4afb-8d8f-4e8a21b252ea) | ![Nome do Integrante 5](URL_da_Imagem5) | ![Nome do Integrante 4](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/988ea14e-303e-4a35-a742-92cebb44f3f1) | ![Nome do Integrante 5](https://github.com/fernandesmelo/carona-solidaria/assets/113717317/eb33b355-8071-4c2c-a789-ea40733a4cbe) |
 |----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
