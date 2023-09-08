@@ -70,4 +70,4 @@ Em construção...
 
 
 ## 🎁 Expressões de Gratidão
-Agradeço a [Cloves Rocha](https://www.linkedin.com/in/cloves-rocha-07757638/) que nos guiou no início desse projeto e aos professores [Pedro Albino](https://www.linkedin.com/in/pedrohalbino/) e [Waldeck Lindoso](https://www.linkedin.com/in/waldeck-lindoso-jr-41a94840/) por nos ajudarem em algumas etapas 🫂;
+Agradeço a [Cloves Rocha](https://www.linkedin.com/in/cloves-rocha-07757638/) que nos guiou no início desse projeto e aos professores [Pedro Albino](https://www.linkedin.com/in/pedrohalbino/) e [Waldeck Lindoso](https://www.linkedin.com/in/waldeck-lindoso-jr-41a94840/) por nos ajudarem em algumas etapas 🫂.
