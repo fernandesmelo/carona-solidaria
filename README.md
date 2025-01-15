@@ -45,9 +45,6 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 ### 🎉 Parabéns!
 Agora você tem o projeto HTML, CSS, e JavaScript instalado e rodando localmente. Bom desenvolvimento!
 
-## ⚙️ Executando os Testes
-Próximos passos...
-
 ## 🛠️ Construído com
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -75,6 +72,8 @@ Paused...
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
 | [Laércio Fernandes](https://www.linkedin.com/in/laercio-fernandes/) | [Michelle Bessoni](https://www.linkedin.com/in/michelle-bessoni-56bb52143/) | [Igor Yan](https://www.linkedin.com/in/igor-ian/) | [Monique Ferreira](https://www.linkedin.com/in/monique-ferreira-42b2121b7/) | [Cláudio Felipe](https://www.linkedin.com/in/claudio-felipe-5b7b39116/) | [Tácia Camila](https://www.linkedin.com/in/t%C3%A1ciacamila/) | [Raíssa Santos](https://www.linkedin.com/in/raissasantos96/) |
 
+## ⚙️ Executando os Testes
+Próximos passos...
 
 ## 🎁 Expressões de Gratidão
 Agradeço a [Cloves Rocha](https://www.linkedin.com/in/cloves-rocha-07757638/) que nos guiou no início desse projeto e aos professores [Pedro Albino](https://www.linkedin.com/in/pedrohalbino/) e [Waldeck Lindoso](https://www.linkedin.com/in/waldeck-lindoso-jr-41a94840/) por nos ajudarem em algumas etapas 🫂.
